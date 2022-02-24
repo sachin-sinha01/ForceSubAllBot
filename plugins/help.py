@@ -17,7 +17,7 @@ def _start(client, message):
             if user.status == "kicked":
                client.send_message(
                    chat_id=message.chat.id,
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/AwesomeSupportt).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/friend_warriors).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
