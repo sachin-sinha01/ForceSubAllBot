@@ -13,8 +13,8 @@ Made with Python3
 # Introduction
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
 
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/AwesomeSupport)
-[![Support !](https://badgen.net/badge/Support%20/Group/blue)](https://telegram.dog/AwesomeSupport)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/mr_sukkun)
+[![Support !](https://badgen.net/badge/Support%20/Group/blue)](https://telegram.dog/friend_warriors)
 
 - Official Bot :- [ForceSubAllBot](https://t.me/Forcejoinchannelbot)
 
@@ -36,5 +36,5 @@ Made with Python3
 - Read `Config.py` to know all configs
 
 ## Thanks to
-- Dev [@HEROGAMERS1](https://t.me/HEROGAMERS1) Find me in telegram [Here](https://t.me/HEROGAMERS1)
+- Dev [@HEROGAMERS1](https://t.me/mr_sukkun) Find me in telegram [Here](https://t.me/mr_sukkun)
 - Github [QueenArzoo](https://github.com/QueenArzoo)
