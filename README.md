@@ -16,11 +16,11 @@ Made with Python3
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/AwesomeSupport)
 [![Support !](https://badgen.net/badge/Support%20/Group/blue)](https://telegram.dog/AwesomeSupport)
 
-- Official Bot :- [ForceSubAllBot](http://t.me/ForceSubAllBot)
+- Official Bot :- [ForceSubAllBot](https://t.me/Forcejoinchannelbot)
 
-- Support Channel :- [AwesomeBot](http://t.me/LaylaList)
+- Support Channel :- [AwesomeBot](http://t.me/mr_sukkun)
 
-- Support Group :- [AwesomeSupport](http://t.me/AwesomeSupport)
+- Support Group :- [AwesomeSupport](http://t.me/stranger_warriors)
 
 ## Todo
 - [ ] Add multiple channels support
